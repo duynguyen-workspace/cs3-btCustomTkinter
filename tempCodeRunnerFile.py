@@ -1,2 +1,2 @@
-img_frame = customtkinter.CTkFrame(master=top_frame, fg_color="white")
-        # img_frame.pack(expand=True, fill="both")
+format(product["price"]))
+        button = customtkinter.CTkButton(info_frame, text="Buy Now", fg

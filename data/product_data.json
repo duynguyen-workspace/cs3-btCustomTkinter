@@ -1,0 +1,362 @@
+[
+    {
+        "id": 138481685,
+        "name": "Phần mềm Microsoft 365",
+        "brand_name": "Microsoft",
+        "price": 1290000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/20/0d/88/03af672ad820bd31b940284fdf466167.jpg",
+        "review_count": 589,
+        "rating_average": 5
+    },
+    {
+        "id": 10001384,
+        "name": "RAM Laptop Samsung",
+        "brand_name": "Samsung",
+        "price": 388500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/75/c2/0ce2b97a5438180fbc175f954e0e8770.png",
+        "review_count": 460,
+        "rating_average": 4.8
+    },
+    {
+        "id": 138481685,
+        "name": "Phần mềm Microsoft 365",
+        "brand_name": "Microsoft",
+        "price": 1290000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/20/0d/88/03af672ad820bd31b940284fdf466167.jpg",
+        "review_count": 589,
+        "rating_average": 5
+    },
+    {
+        "id": 74975883,
+        "name": "Bộ Phát Wifi",
+        "brand_name": "TP-Link",
+        "price": 429000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/eb/0b/693203d8bf502067358824499bf82710.jpg",
+        "review_count": 1328,
+        "rating_average": 4.8
+    },
+    {
+        "id": 146012358,
+        "name": "Ổ cứng di động",
+        "brand_name": "SanDisk",
+        "price": 2190000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/02/66/aa/4d01e0903d4d43debc5db3c59a865f1d.jpg",
+        "review_count": 123,
+        "rating_average": 5
+    },
+    {
+        "id": 74975883,
+        "name": "Bộ Phát Wifi",
+        "brand_name": "TP-Link",
+        "price": 429000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/eb/0b/693203d8bf502067358824499bf82710.jpg",
+        "review_count": 1328,
+        "rating_average": 4.8
+    },
+    {
+        "id": 53254176,
+        "name": "Mực in Canon",
+        "brand_name": "OEM",
+        "price": 110000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/04/61/91/6292e0da40b4c1bbb5fc516a832fac76.jpeg",
+        "review_count": 44,
+        "rating_average": 4.6
+    },
+    {
+        "id": 53704413,
+        "name": "Hộp mực Canon",
+        "brand_name": "OEM",
+        "price": 114500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/70/a3/4d/bad1a2e7fef3c2c6876c9fa3915dabee.jpg",
+        "review_count": 467,
+        "rating_average": 4.6
+    },
+    {
+        "id": 73666130,
+        "name": "Hộp mực Canon 325",
+        "brand_name": "OEM",
+        "price": 119500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/b6/36/9b85df8cbdc10c9d3e98df01c9c5f608.jpg",
+        "review_count": 133,
+        "rating_average": 4.7
+    },
+    {
+        "id": 134561311,
+        "name": "USB 3.0 SanDisk",
+        "brand_name": "SanDisk",
+        "price": 94000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/45/ae/46/f49685d2f159b81bbc3263c249872ed4.jpg",
+        "review_count": 23,
+        "rating_average": 4.8
+    },
+    {
+        "id": 167932609,
+        "name": "Màn hình MSI PRO",
+        "brand_name": "MSI ",
+        "price": 2290000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/26/79/cd/93b2d45748d84c7787df01b438db17fa.png",
+        "review_count": 144,
+        "rating_average": 4.8
+    },
+    {
+        "id": 192208694,
+        "name": "Ổ Cứng Di Động",
+        "brand_name": "WD",
+        "price": 2000000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/49/41/ca5ffa5b899718e73ec09560cc213482.jpg",
+        "review_count": 18,
+        "rating_average": 4.7
+    },
+    {
+        "id": 10001384,
+        "name": "RAM Laptop Samsung",
+        "brand_name": "Samsung",
+        "price": 388500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/75/c2/0ce2b97a5438180fbc175f954e0e8770.png",
+        "review_count": 460,
+        "rating_average": 4.8
+    },
+    {
+        "id": 53056161,
+        "name": "Phần mềm Microsoft",
+        "brand_name": "Microsoft",
+        "price": 1390000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/cd/30/0a171e0c5f94e6b9946b1108791fd6f2.png",
+        "review_count": 165,
+        "rating_average": 5
+    },
+    {
+        "id": 192206541,
+        "name": "Ổ Cứng Di Động",
+        "brand_name": "WD",
+        "price": 2200000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/24/3d/7b/3f599a17b2e99e9ca3cddc02f4e1e2c0.jpg",
+        "review_count": 16,
+        "rating_average": 4.6
+    },
+    {
+        "id": 138481685,
+        "name": "Phần mềm Microsoft 365",
+        "brand_name": "Microsoft",
+        "price": 1290000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/20/0d/88/03af672ad820bd31b940284fdf466167.jpg",
+        "review_count": 589,
+        "rating_average": 5
+    },
+    {
+        "id": 74975883,
+        "name": "Bộ Phát Wifi",
+        "brand_name": "TP-Link",
+        "price": 429000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/eb/0b/693203d8bf502067358824499bf82710.jpg",
+        "review_count": 1328,
+        "rating_average": 4.8
+    },
+    {
+        "id": 173164642,
+        "name": "Dây cáp mạng LAN",
+        "brand_name": "Kingmaster",
+        "price": 58000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/25/79/bc/41a3451ac9093ee7e0352d03c72e04f4.jpg",
+        "review_count": 65,
+        "rating_average": 5
+    },
+    {
+        "id": 806744,
+        "name": "USB Team Taiwan 8GB",
+        "brand_name": "TEAM",
+        "price": 100000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/c/1/c171_8gb_a_1024x1024.u5488.d20170815.t112636.646009.jpg",
+        "review_count": 72,
+        "rating_average": 4.7
+    },
+    {
+        "id": 174029994,
+        "name": "USB Kingston 64GB",
+        "brand_name": "Kingston",
+        "price": 115000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/99/b5/a274921718dee007a97563651d7f2d36.jpg",
+        "review_count": 79,
+        "rating_average": 4.7
+    },
+    {
+        "id": 273285185,
+        "name": "Phần mềm ứng dụng M365",
+        "brand_name": "Microsoft",
+        "price": 890000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/54/a1/b2/f3de20e4d65365ba2ffdef9084683ad5.jpg",
+        "review_count": 2,
+        "rating_average": 4
+    },
+    {
+        "id": 247241493,
+        "name": "Phần Mềm Diệt Virus",
+        "brand_name": "Bkav",
+        "price": 184000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/98/ea/93/e5b3e2a49bbb980059ece79ec11af2fb.png",
+        "review_count": 80,
+        "rating_average": 5
+    },
+    {
+        "id": 54439144,
+        "name": "Bộ Chuyển Đổi USB",
+        "brand_name": "TP-Link",
+        "price": 269000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/61/75/66/bbe09e63ca8bac4e13f055348863fe42.jpg",
+        "review_count": 661,
+        "rating_average": 4.8
+    },
+    {
+        "id": 94161538,
+        "name": "Màn hình máy tính LG",
+        "brand_name": "LG",
+        "price": 2799000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/producttmp/71/7e/34/e44917fc3bce2950404511e13a8da677.png",
+        "review_count": 26,
+        "rating_average": 5
+    },
+    {
+        "id": 17620717,
+        "name": "Hộp mực Canon",
+        "brand_name": "OEM",
+        "price": 115500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/57/20/a87b03840c02c1ae490e8fe895b41e95.jpg",
+        "review_count": 170,
+        "rating_average": 4.7
+    },
+    {
+        "id": 68828151,
+        "name": "Bộ Phát Sóng WiFi",
+        "brand_name": "Xiaomi",
+        "price": 420000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/51/23/eb/83cab9b402a56506e0dd8a0b004fbb39.jpg",
+        "review_count": 201,
+        "rating_average": 4.7
+    },
+    {
+        "id": 806672,
+        "name": "USB Team 16GB",
+        "brand_name": "TEAM",
+        "price": 77000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/c/1/c171_16gb_trang_1024x1024.u5488.d20170814.t182536.215549.jpg",
+        "review_count": 93,
+        "rating_average": 4.7
+    },
+    {
+        "id": 257844204,
+        "name": "Dây Cáp Mạng",
+        "brand_name": "Arigato",
+        "price": 85000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/4a/9c/ce51a541d1ea82e1a9875bd9caae454b.jpg",
+        "review_count": 14,
+        "rating_average": 5
+    },
+    {
+        "id": 8608925,
+        "name": "Hộp mực Laser Brother",
+        "brand_name": "OEM",
+        "price": 111900,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/55/28/d6/37a5a40fc476d56c80529ff4d645523e.jpg",
+        "review_count": 303,
+        "rating_average": 4.5
+    },
+    {
+        "id": 419322,
+        "name": "Máy In Laser",
+        "brand_name": "Canon",
+        "price": 2890000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/de/6c/539242ca7e65fd2b1a1575d4d6aa4dc1.png",
+        "review_count": 439,
+        "rating_average": 4.6
+    },
+    {
+        "id": 15668735,
+        "name": "Ổ đĩa dvd rời ",
+        "brand_name": "OEM",
+        "price": 238000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/98/26/4e7073b4680e455377200e53a69a7bb8.jpg",
+        "review_count": 112,
+        "rating_average": 4.6
+    },
+    {
+        "id": 271266352,
+        "name": "USB Lexar JumpDrive",
+        "brand_name": "Lexar",
+        "price": 250000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/b2/bf/1ad9c9da2197ac6bd1474b4a2c6bd8bb.jpeg",
+        "review_count": 3,
+        "rating_average": 5
+    },
+    {
+        "id": 17967481,
+        "name": "Bộ Kích Sóng Wifi",
+        "brand_name": "Xiaomi",
+        "price": 249000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/42/7a/43/c7ad62e74646cb0b44b07e16a0ee68bd.jpg",
+        "review_count": 743,
+        "rating_average": 4.6
+    },
+    {
+        "id": 54839622,
+        "name": "Hộp mực in HP",
+        "brand_name": "OEM",
+        "price": 120500,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/2a/b6/36/ad4029f28f1cf8adc830a819d4ce12bc.jpg",
+        "review_count": 132,
+        "rating_average": 4.7
+    },
+    {
+        "id": 201936769,
+        "name": "Mực nạp, mực bơm",
+        "brand_name": "OEM",
+        "price": 26000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/87/8b/e4/173445fa374bd02e2c7ee4e13ccad276.jpg",
+        "review_count": 31,
+        "rating_average": 4.6
+    },
+    {
+        "id": 8114282,
+        "name": "Máy Scan Canon",
+        "brand_name": "Canon",
+        "price": 1790000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/56/76/b2d8e16fe91df2bc3282ca519e314370.jpg",
+        "review_count": 155,
+        "rating_average": 4.6
+    },
+    {
+        "id": 26314426,
+        "name": "Dây Cáp Mạng Cat6",
+        "brand_name": "OEM",
+        "price": 99000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/b8/a0/054000eb64aa49103ccf731369b2f41f.png",
+        "review_count": 214,
+        "rating_average": 4.8
+    },
+    {
+        "id": 24635126,
+        "name": "Bộ Chia Tín Hiệu",
+        "brand_name": "TP-Link",
+        "price": 599000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/34/e1/8bb8456b224f0ebc0cb20b4dd1003c00.jpg",
+        "review_count": 27,
+        "rating_average": 4.8
+    },
+    {
+        "id": 58056491,
+        "name": "Sạc laptop Lenovo",
+        "brand_name": "OEM",
+        "price": 230000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/64/c0/fc/16e1731e49b6f1e56888db8d1a13cc44.jpg",
+        "review_count": 27,
+        "rating_average": 4.5
+    },
+    {
+        "id": 24255305,
+        "name": "Dây Cáp Mạng CAT5",
+        "brand_name": "OEM",
+        "price": 35000,
+        "thumbnail": "https://salt.tikicdn.com/cache/280x280/ts/product/61/e0/35/b64d4fd5f30a90b02e674b49a5ef4aeb.jpg",
+        "review_count": 154,
+        "rating_average": 4.7
+    }
+]
